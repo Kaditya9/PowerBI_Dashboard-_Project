@@ -1,2 +1,2 @@
 # PowerBI_Dashboard-_Project
-This is a PowerBI end to end project.
+Credit Card Transaction and Customer Dashboard using Power BI.
